@@ -2,9 +2,9 @@
   "type": "module",
   "name": "node_knowledge",
   "version": "1.0.0",
-  "main": "sever.js",
+  "main": "puzzle.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon puzzle.js"
   },
   "keywords": [],
   "author": "",
